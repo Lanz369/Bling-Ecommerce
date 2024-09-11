@@ -1,14 +1,3 @@
-Alan de Souza Maximiano - RM557088
-
-André Rovai Jr          - RM555848
-
-Pedro Henrique Conte    - RM554987
-
-Lancelot Chagas         - RM554707
-
-Kauan Alves             - RM555082
-
-
 # Sistema de Gestão de Estoque e Vendas
 
 Este projeto é uma aplicação web desenvolvida em Flask para gerenciar inventário e vendas de produtos. A aplicação permite autenticação de usuários, manipulação de produtos e emissão de relatórios de estoque, além de estar preparada para futuras melhorias, incluindo um aplicativo móvel para leitura de código de barras.
